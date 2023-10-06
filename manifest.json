@@ -1,6 +1,6 @@
 {
-    "name": "flutter_presentation",
-    "short_name": "flutter_presentation",
+    "name": "panther_app",
+    "short_name": "panther_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

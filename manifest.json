@@ -1,6 +1,6 @@
 {
-    "name": "panther_app",
-    "short_name": "panther_app",
+    "name": "lap_tracker",
+    "short_name": "lap_tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

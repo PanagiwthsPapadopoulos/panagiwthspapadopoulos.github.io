@@ -110,6 +110,15 @@ export const projectsData = {
       tags: ["Verilog", "VLSI", "FP Multiplier"],
       links: { github: "https://github.com/PanagiwthsPapadopoulos/hardware-2" }
     },
+    {
+      id: 12,
+      title: "PicoRV32 RISC-V ASIC Implementation (45nm)",
+      category: "VLSI",
+      description: "This repository contains the complete RTL-to-GDSII physical design flow for a PicoRV32 RISC-V processor core. The project was developed as part of the \"Digital Integrated Circuits VLSI-ASIC\" course at the Aristotle University of Thessaloniki (AUTH).",
+      image: "/assets/vlsi-digital.png",
+      tags: ["VLSI", "ASIC", "Physical Design"],
+      links: { github: "https://github.com/PanagiwthsPapadopoulos/vlsi-asic" }
+    },
     // Embedded Software
     {
       id: 12,
@@ -129,6 +138,15 @@ export const projectsData = {
       tags: ["C", "ESP32", "WiFi", "Peripherals"],
       links: { github: "https://github.com/PanagiwthsPapadopoulos/esp32-hydra" }
     },
+    {
+      id: 13,
+      title: "Vitis HLS Project",
+      category: "Embedded Software",
+      description: "Developed and optimized a custom hardware accelerator for image processing (calculating image differences, posterization, and applying a 3x3 sharpen filter) targeting the Xilinx Alveo U200 Data Center FPGA. Using the Vitis unified software platform, the project involved translating C/C++ software algorithms into highly efficient Register-Transfer Level (RTL) designs through High-Level Synthesis (HLS).",
+      image: "/assets/fpga.png",
+      tags: ["Xilinx Vitis", "Vitis HLS", "Alveo U200 FPGA", "C/C++", "Hardware Acceleration", "High-Level Synthesis (HLS)", "Hardware/Software Co-Design", "Register-Transfer Level (RTL) Design", "Memory Banking", "Optimization"],
+      links: { github: "https://github.com/PanagiwthsPapadopoulos/computer-architecture-accelerators" }
+    },
     // Software Engineering
     {
       id: 14,
@@ -138,6 +156,15 @@ export const projectsData = {
       image: "/assets/onlyvibes.png",
       tags: ["SE", "Mockups", "User Stories", "Activity Diagrams", "Use Case Diagrams", "Design Patterns", "Sequence Diagrams", "Class Diagrams", "API"],
       links: { github: "https://github.com/PanagiwthsPapadopoulos/software-engineering-1/" }
+    },
+    {
+      id: 14,
+      title: "Software Engineering - Onlyvibes (2)",
+      category: "Software Engineering",
+      description: "Developed a comprehensive social event ecosystem featuring a React mobile-first frontend and an Express/MongoDB backend. This project serves as a showcase for high-standard Software Quality Assurance, utilizing GitHub Actions for CI/CD and a combination of Cypress and Jest for end-to-end and integration testing. Key highlights include a 100% clean-code rating on the Cyclopt platform (zero violations/vulnerabilities), \"Optimistic UI\" implementation for seamless social interactions, and a fully automated pipeline that ensures only verified code reaches production on Render.",
+      image: "/assets/onlyvibes-2.png",
+      tags: ["SE", "React", "Frontend Development", "Backend Development", "Express/MongoDB", "Github Actions", "CI/CD", "E2E Testing", "Integration Testing", "Cypress", "Jest", "Render"],
+      links: { github: "https://github.com/PanagiwthsPapadopoulos/software-engineering-2/" }
     },
     
 

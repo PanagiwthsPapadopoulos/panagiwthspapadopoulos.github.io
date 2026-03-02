@@ -148,7 +148,7 @@ export const toolsData = {
         },
         {
           name: "GTKWave",
-          description: "fully featured GTK+ based wave viewer for Unix.",
+          description: "Fully featured GTK+ based wave viewer for Unix.",
           link: "https://gtkwave.sourceforge.net/",
           icon: Activity
         }

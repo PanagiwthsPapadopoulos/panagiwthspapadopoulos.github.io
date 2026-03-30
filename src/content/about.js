@@ -1,14 +1,10 @@
-const fullName = 'Papadopoulos Panagiotis'
-
-
 // --- DATA ---
   export const personalInfo = {
     name: "Papadopoulos Panagiotis",
     title: "Electrical & Computer Engineering Undergraduate",
     location: "Thessaloniki, Greece",
     email: "panpapadopoulos00@gmail.com",
-    about: "Focused on constantly evolving. I bridge the gap between theoretical computer science and practical engineering.",
-    // avatar: ""
+    about: "Currently studying cybersecurity and system hardening. I have worked on real-world projects, including both software and hardware.",
   };
 
   export const experience = [
@@ -38,7 +34,7 @@ const fullName = 'Papadopoulos Panagiotis'
       degree: "Electrical & Computer Engineering",
       school: "Aristotle University of Thessaloniki",
       date: "2021 - current",
-      details: "Thesis: TBD. Grade: 7.1/10"
+      details: "Thesis: Security in Federated Learning. Grade: 7.1/10"
     },
     
   ];

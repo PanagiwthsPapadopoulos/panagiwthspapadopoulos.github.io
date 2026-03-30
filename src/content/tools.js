@@ -218,12 +218,6 @@ export const toolsData = {
           link: "https://wireshark.org/",
           icon: Wifi
         },
-        {
-          name: "Arduino IDE",
-          description: "Lightweight editor developed by Arduino Lab for connecting a board, uploading code and transferring files.",
-          link: "https://www.arduino.cc/en/software/",
-          icon: Cpu
-        },
       ]
     },
     {
